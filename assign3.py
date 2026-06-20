@@ -4,7 +4,7 @@
 # 12/03/25
 #---------------------------------------------------------------------------
 #imports
-import module_URN6868959 as mod
+import module3 as mod
 import scipy.integrate as spi
 
 x = float(input("enter the value for x: "))
